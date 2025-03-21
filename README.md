@@ -12,4 +12,4 @@
 3. Run `ansible-playbook -i inventory/aws_ec2.yml playbook.yml`
 
 You can then see your website being served in through your browser.
-![Week 11 Lab](Week%2011%20lab.png)
+![Alt text](Week%2011%20Lab.png)
